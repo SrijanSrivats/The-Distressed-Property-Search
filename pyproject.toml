@@ -1,0 +1,19 @@
+[project]
+name = "distressed-property-search"
+version = "0.1.0"
+description = "Streamlit app for identifying distressed property opportunities using HUD Fair Market Rent data."
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.33",
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "plotly>=5.18",
+    "openpyxl>=3.1",
+    "scipy>=1.10",
+    "requests>=2.32",
+    "google-genai>=1.0.0",
+    "shapely>=2.0"
+]
+
+[tool.uv]
+package = false

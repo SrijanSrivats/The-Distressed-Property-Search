@@ -11,7 +11,7 @@ This project focuses on combining data engineering, statistical analysis, geospa
 ## Live Application
 
 👉 **Streamlit App:**  
-[PASTE YOUR DEPLOYED STREAMLIT LINK HERE]
+https://the-distressed-property-search.streamlit.app/
 
 ---
 
